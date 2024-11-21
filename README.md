@@ -6,7 +6,7 @@
 ## 💻 Pré-requisitos
 
 - Utilizei a versão mais recente do Python;
-- Compatível com Windows;
+- Fiz no Windows, para especificações com o MacOS ou Linux, consulte a documentação;
 - Documentação da utilização do Selenium no Python: https://pypi.org/project/selenium/;
 - Importante citar que fiz a versão do Firefox, mas o Selenium também é compatível com Chrome, Edge e Safari.
 
