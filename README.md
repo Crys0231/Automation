@@ -7,7 +7,7 @@
 
 - Utilizei a versão mais recente do Python;
 - Compatível com Windows;
-- Documentação da utilização do Selenium no Python: `https://pypi.org/project/selenium/`;
+- Documentação da utilização do Selenium no Python: https://pypi.org/project/selenium/;
 - Importante citar que fiz a versão do Firefox, mas o Selenium também é compatível com Chrome, Edge e Safari.
 
 ## 🚀 Deixando tudo 0 bala
